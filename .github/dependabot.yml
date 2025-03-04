@@ -72,7 +72,7 @@ updates:
           - "minor"
           - "patch"
 
-  # 2) <service> CORE
+  # 2) legal CORE
   - package-ecosystem: "maven"
     directory: "/legal-core"
     schedule:
