@@ -7,9 +7,8 @@ updates:
   - package-ecosystem: "maven"
     directory: "/"
     schedule:
-      interval: "weekly"
-      day: "sunday"
-      time: "09:00"
+      interval: "daily"
+      time: "14:45"
     target-branch: "main"
     labels:
       - "dependencies"
